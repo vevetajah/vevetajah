@@ -6,7 +6,9 @@
 
 ###
 
-<h5 align="left"><span style="color: #61DAFB;">Cyber Security</span>enthusiast with a strong focus on protecting digital assets and preventing threats. Skilled in identifying vulnerabilities, implementing defense strategies, and ensuring data integrity across systems.</h5>
+<h5 align="left">
+  <span style="color: #61DAFB;">Cyber Security</span> enthusiast with a strong focus on protecting digital assets and preventing threats. Skilled in identifying vulnerabilities, implementing defense strategies, and ensuring data integrity across systems.
+</h5>
 
 ###
 
