@@ -1,4 +1,4 @@
-<h2 align="right">HI, I'm 𝗩𝗲𝘁𝘇𝗫𝟬𝟭</h2>
+<h2 align="right">HI, I'm 𝗩𝗲𝘁𝘇𝗫𝘆𝗿𝗮𝗮</h2>
 
 ###
 
