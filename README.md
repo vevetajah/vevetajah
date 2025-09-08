@@ -103,7 +103,7 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=vetzxyraa&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vetzxyraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=𝗩𝗲𝘁𝘇𝗫𝘆𝗿𝗮𝗮&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
